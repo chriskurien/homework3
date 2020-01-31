@@ -11,18 +11,17 @@ Make sure to learn what the starter code does!!
 @import url('https://fonts.googleapis.com/css?family=Andikas&display=swap');
 
 body{
-  color: black;
-  font-family: "Andika",sans-serif;
-  font-size: 16px;
-  margin: 1.2em;
-  background-size: cover ;
-  background-position: center;
-  background-color: #DDDDDD;
-  background-image: url("../images/pigeon_background.jpg");
-  height:100%;
-  background-repeat: no-repeat;
-  background-position: center;
-
+	color: black;
+  	font-family: "Andika",sans-serif;
+  	font-size: 16px;
+ 	margin: 1.2em;
+ 	background-size: cover ;
+  	background-position: center;
+  	background-color: #DDDDDD;
+  	background-image: url("https://chriskurien.github.io/homework3/images/pigeon_background.jpg");
+  	height:100%;
+  	background-repeat: no-repeat;
+  	background-position: center;
 }
 
 :focus{
@@ -30,25 +29,24 @@ body{
 }
 
 main{
-  margin-bottom: 100px;
+  	margin-bottom: 100px;
 }
 
 h1{
-  color: #8000FF;
-  font-size: 2em;
-  line-height: 1.5;
-  text-align: center;
+  	color: #8000FF;
+  	font-size: 2em;
+  	line-height: 1.5;
+  	text-align: center;
 }
 
 caption{
-  margin:5px 0px;
+  	margin:5px 0px;
 }
 
 p{
 	color:black;
 	font-size:16px;
 	padding-top:10px;
-
 }
 
 a{
@@ -60,9 +58,9 @@ a{
 
 table {
 	margin: 0 auto;
-    border: 2px solid black;
-    border-collapse: separate;
-    border-radius: 15px;
+    	border: 2px solid black;
+    	border-collapse: separate;
+    	border-radius: 15px;
 
 }
 
@@ -77,7 +75,6 @@ table {
 
 .rowhead{
 	border-top: 2px solid black;
-	
 }
 
 td{
